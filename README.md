@@ -4,7 +4,7 @@
 ![Github Badge](https://img.shields.io/github/languages/top/juanwithouttheotter/Movie-Weather-Solutions)
 ![Github Badge](https://img.shields.io/github/languages/count/juanwithouttheotter/Movie-Weather-Solutions?color=green)
 
-See the website [here!](https://juanwithouttheotter.github.io/Movie-Weather-Solutions/)
+See the website [here!](https://zerrtry.github.io/Project-1-Weather-Movie-Picker)
 
 
 ## Contents
