@@ -1,7 +1,7 @@
 # Project-1
 
 # Movie-Weather-Solutions
-![Github Badge](https://img.shields.io/github/languages/top/zerrtry.github.io/Project-1-Weather-Movie-Picker)
+![Github Badge](https://img.shields.io/github/languages/top/zerrtry/Project-1-Weather-Movie-Picker-)
 ![Github Badge](https://img.shields.io/github/languages/count/juanwithouttheotter/Movie-Weather-Solutions?color=green)
 
 See the website [here!](https://zerrtry.github.io/Project-1-Weather-Movie-Picker)
