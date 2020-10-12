@@ -6,6 +6,9 @@
 
 See the website [here!](https://zerrtry.github.io/Project-1-Weather-Movie-Picker)
 
+## Views
+
+![](./weather-movie-picker.gif)
 
 ## Contents
 * [Usage](#Usage)
