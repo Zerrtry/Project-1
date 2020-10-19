@@ -2,7 +2,7 @@
 ![Github Badge](https://img.shields.io/github/languages/top/zerrtry/Project-1-Weather-Movie-Picker)
 ![Github Badge](https://img.shields.io/github/languages/count/zerrtry/Project-1-Weather-Movie-Picker?color=yellow)
 
-See the website [here!](https://zerrtry.github.io/Project-1-Weather-Movie-Picker)
+See the website [here!](https://zerrtry.github.io/Weather-Movie-Picker)
 
 ## Views
 
@@ -28,6 +28,6 @@ Dmitrii Zverev, Juan Osorio, Melanie Duah, Kurt Young, Junaid Pulikandy
 
 ### Deployment
 **Quick link:**
-* [https://zerrtry.github.io/Project-1-Weather-Movie-Picker](https://zerrtry.github.io/Project-1-Weather-Movie-Picker)
+* [https://zerrtry.github.io/Weather-Movie-Picker](https://zerrtry.github.io/Weather-Movie-Picker)
 
 
